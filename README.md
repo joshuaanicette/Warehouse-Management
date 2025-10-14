@@ -121,7 +121,9 @@ Learning Impact with KiwiPlan
 This project was instrumental in understanding KiwiPlan’s warehouse management software and accelerating learning during my co-op role:
 
 Understanding KiwiPlan Workflows: By replicating KiwiPlan’s dispatch and trailer management processes in C, I gained hands-on insight into its optimization algorithms, such as pallet-to-driver coordination and load balancing, which improved my ability to navigate and configure KiwiPlan’s interface.
+
 Faster Learning Curve: Developing modular C code for pallet tracking and trailer reassignment mirrored KiwiPlan’s backend logic, enabling me to quickly grasp its data structures and workflows. This reduced my onboarding time by approximately 30%, allowing me to contribute to real-world tasks like processing 50+ bills of lading daily within my first two weeks.
+
 Practical Application: Implementing features like error reduction (20% decrease) and on-time delivery (98% success rate) directly applied KiwiPlan’s optimization principles, reinforcing my understanding of its impact on order accuracy (15% improvement) and processing time (12% reduction).
 
 This project not only solidified technical skills in C programming but also provided a practical bridge to mastering KiwiPlan’s software, making me a more effective and adaptable contributor in my co-op role.
