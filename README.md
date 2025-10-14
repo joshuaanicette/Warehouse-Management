@@ -6,11 +6,17 @@ The Warehouse Management System is a modular C-based application designed to man
 Features
 
 Pallet Management: Add, edit, and track pallets with customer and warehouse associations.
+
 Trailer Reassignment: Dynamically reassign trailers to drivers based on availability and shifts.
+
 Packaging Queue: Manage pallets in packaging workflows with machine assignments.
+
 Dispatch Operations: Queue and process pallets for dispatch, handling over 50 bills of lading per day.
+
 Warehouse Utils: Shared utilities for listing trailers, drivers, and pallets by warehouse ID.
+
 Modular Design: Separate modules for management, packaging, dispatch, and utilities to promote code reusability.
+
 KiwiPlan-Inspired Optimizations: Implements streamlined backend transfers for 20+ trailers per shift, reducing errors by 20% and ensuring 98% on-time delivery.
 
 Technologies Used
