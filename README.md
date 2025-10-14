@@ -70,11 +70,17 @@ Each program presents a menu-driven interface for subsystem-specific operations.
 Project Structure
 
 warehouse.h: Header file declaring shared structs (e.g., Pallet, Driver, Trailer, Warehouse) and function prototypes.
+
 warehouse_utils.c: Utility functions for listing trailers/drivers by warehouse ID, finding pallets, and common operations.
+
 warehouse_management.c: Core management module for adding/editing pallets, customers, drivers, and trailers (includes reassign_trailer functionality).
+
 warehouse_packaging.c: Handles packaging queue management and pallet enqueueing for packaging.
+
 warehouse_dispatch.c: Manages dispatch queue, pallet dispatch, and trailer assignments.
+
 warehouse_packing.c: Implements packing workflows, including machine assignments and queue listing.
+
 Makefile or .vscode/tasks.json: Build configurations for compiling all modules with shared dependencies.
 
 Key Functions and Workflows
