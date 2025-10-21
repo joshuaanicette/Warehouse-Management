@@ -145,4 +145,4 @@ Open a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or to discuss co-op extensions with KiwiPlan integration, contact your-email@example.com or open an issue on GitHub.
+For questions or to discuss co-op extensions with KiwiPlan integration, contact joshuaanicette34@gmail.com or open an issue on GitHub.
